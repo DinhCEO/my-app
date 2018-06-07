@@ -10,7 +10,7 @@ jobs:
       - run:
           name: Deploy Master to Heroku
           command: |
-            git push https://heroku:65637b9e-4c8f-4231-94e0-0e1b222d2586@git.heroku.com/aqueous-hamlet-97529.git master
+            git push https://heroku:65637b9e-4c8f-4231-94e0-0e1b222d2586@git.heroku.com/rocky-cliffs-22378.git master
 
 workflows:
   version: 2
