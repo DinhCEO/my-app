@@ -1,0 +1,7 @@
+version: 2
+
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: nameless-island-28185
